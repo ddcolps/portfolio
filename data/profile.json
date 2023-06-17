@@ -3,7 +3,7 @@
   "photo": "https://avatars.githubusercontent.com/u/135380447?s=400&u=24a2ffb7b4e4efe16b565e4a7d544d752b690708&v=4",
   "job": "Web Developer",
   "location": "Brazil",
-  "phone": "(84) 99834-6525",
+  "phone": "+55 (84) 99834-6525",
   "email": "devilops@protonmail.ch",
   "skills": {
     "hardSkills": [
@@ -40,9 +40,9 @@
     ]
   },
   "languages": [
-    "Português BR (Native)",
-    "Inglês (Adavanced)",
-    "Espanhol (Basic)"
+    "Portuguese (Native)",
+    "English (Advanced)",
+    "Spanish (Basic)"
   ],
   "portfolio": [
     {
